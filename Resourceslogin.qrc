@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/Images">
+        <file>Images/client.png</file>
+        <file>Images/Employee-2.png</file>
+        <file>Images/KARYALAYA.png</file>
+        <file>Images/login.png</file>
+        <file>Images/office-management-system.png</file>
+        <file>Images/signup-2.png</file>
+        <file>Images/textured-background-white-tone_53876-128610.jpg</file>
+        <file>Images/user.png</file>
+        <file>Images/WeyM8.jpeg</file>
+        <file>Images/KARYALAYA-removebg-preview.png</file>
+        <file>Images/Office.jpg</file>
+        <file>Images/briefcase.png</file>
+        <file>Images/home .png</file>
+    </qresource>
+</RCC>
